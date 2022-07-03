@@ -1,0 +1,53 @@
+*{
+    padding:0px;
+    margin: 0px;
+ }
+ body
+ {
+   background-color:#84e09d;
+ }
+
+ .container
+ {
+   display:flex ;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   font-weight: bold;
+   color: #053673;
+   padding: 30px;
+ }
+ #vegetableSaladImage
+ {
+ height: 300px;
+ align-self: center;
+ margin: 10px 10px 10px 10px;
+ box-shadow: inset;
+ width: 400px;
+ }
+ #benefits
+ {
+    margin: 10px;
+    
+ }
+ #benefitsParagraph{
+    margin: 10px;
+ }
+ #stepsForVegetableSalad{
+    margin: 10px;
+ }
+ #stepsForVegetableSalad ul li{
+    margin: 30px;
+ }
+
+ hr{
+    margin: 30px;
+    width: 100vw ;
+ }
+ #fooderText{
+    margin-top:10px ;
+ }
+
+
+
+
